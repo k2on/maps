@@ -8,6 +8,8 @@
         {"lat": 34.676896523207965, "lng": -82.83597633881364},
         {"lat": 34.67629760966025, "lng": -82.83606007970518},
         {"lat": 34.676371690971706, "lng": -82.83682387628127}
+      ],
+      "floors": [
       ]
     },
     {
@@ -17,6 +19,29 @@
         {"lat": 34.693898632081364, "lng": -82.81865355575604 },
         {"lat": 34.68352313317166, "lng": -82.8214029374812 },
         {"lat": 34.68701373487388, "lng": -82.84988775956681 }
+      ],
+      "floors": [
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
+          {"label": "10 Floor"},
       ]
     }
   ]
